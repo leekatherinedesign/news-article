@@ -1,3 +1,6 @@
+Update 6/8/18
+finished project asking to recreate an article.
+
 # News-Article
 Use HTML, and Internal CSS to replicate this article as closely as possible. The paragraph text used is Lorem Ipsum and doesn't need to be the same. You can generate your own Lorem Ipsum text by going to: http://www.lipsum.com/ (Links to an external site.)Links to an external site. scroll down the page and you will see the link to generate paragraphs. Once you have created them, copy the paragraphs and paste them into your paragraph tags. 
 
